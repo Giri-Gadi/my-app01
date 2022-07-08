@@ -1,0 +1,15 @@
+C:\Users\Giri\my-app01\bin\Debug\net6.0\my-app01.exe
+C:\Users\Giri\my-app01\bin\Debug\net6.0\my-app01.deps.json
+C:\Users\Giri\my-app01\bin\Debug\net6.0\my-app01.runtimeconfig.json
+C:\Users\Giri\my-app01\bin\Debug\net6.0\my-app01.dll
+C:\Users\Giri\my-app01\bin\Debug\net6.0\ref\my-app01.dll
+C:\Users\Giri\my-app01\bin\Debug\net6.0\my-app01.pdb
+C:\Users\Giri\my-app01\obj\Debug\net6.0\my-app01.csproj.AssemblyReference.cache
+C:\Users\Giri\my-app01\obj\Debug\net6.0\my-app01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giri\my-app01\obj\Debug\net6.0\my-app01.AssemblyInfoInputs.cache
+C:\Users\Giri\my-app01\obj\Debug\net6.0\my-app01.AssemblyInfo.cs
+C:\Users\Giri\my-app01\obj\Debug\net6.0\my-app01.csproj.CoreCompileInputs.cache
+C:\Users\Giri\my-app01\obj\Debug\net6.0\my-app01.dll
+C:\Users\Giri\my-app01\obj\Debug\net6.0\ref\my-app01.dll
+C:\Users\Giri\my-app01\obj\Debug\net6.0\my-app01.pdb
+C:\Users\Giri\my-app01\obj\Debug\net6.0\my-app01.genruntimeconfig.cache
